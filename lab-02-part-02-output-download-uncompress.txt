@@ -220,7 +220,16 @@ a stuff/hello.text
 
 Copy and paste the output below. (It should contain stuff.tar)
 ----------
-
+-test			Music			isus
+Adlm			New Unity Project	more-stuff
+Adobe			Pictures		mtec1002-lab-02
+Applications		Public			mtec1002-lab-02.zip
+Desktop			Things			pymel.log
+Documents		__MACOSX		stuff
+Downloads		ajax			stuff.tar
+Library			ajax-test		test.rb
+MPLABXProjects		google.text		xgen
+Movies			ipe.properties
 
 
 ==========
@@ -230,7 +239,16 @@ gzip stuff.tar
 
 List your files again.... you should have a new file with a .gz extension.  Copy and paste the output of your this below.
 ----------
-
+-test			Music			isus
+Adlm			New Unity Project	more-stuff
+Adobe			Pictures		mtec1002-lab-02
+Applications		Public			mtec1002-lab-02.zip
+Desktop			Things			pymel.log
+Documents		__MACOSX		stuff
+Downloads		ajax			stuff.tar.gz
+Library			ajax-test		test.rb
+MPLABXProjects		google.text		xgen
+Movies			ipe.properties
 
 
 ==========
@@ -244,8 +262,7 @@ Change your directory to mtec1002-lab-02.
 
 List the files.  Copy and paste the output below (stuff.tar.gz should be there).
 ----------
-
-
+books		logs		stuff.tar.gz	web
 ==========
 22. You should be in the lab directory.  Let's uncompress the file.
 
